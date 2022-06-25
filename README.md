@@ -7,8 +7,8 @@
 ### - Stats 🎲
 <div>
   <a href="https://github.com/1Mack" >
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1Mack&show_icons=true&theme=dark" />
-  <img wi height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Mack&layout=compact&langs_count=16&theme=dark" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=1Mack&show_icons=true&theme=radical" />
+  <img wi height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Mack&layout=compact&langs_count=16&theme=radical" />
   </a>
 </div>
 <div style="display: inline_block"><br>
